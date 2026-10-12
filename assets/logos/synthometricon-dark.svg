@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 965 965" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;">
+    <g id="Artboard1" transform="matrix(1.154676,0,0,1.005049,-118.50881,-56.291667)">
+        <rect x="102.634" y="56.009" width="835.732" height="960.152" style="fill:none;"/>
+        <g id="Zeichen" transform="matrix(1.732362,0,0,1.990268,14.312581,0.290201)">
+            <g transform="matrix(1,0,0,1,31.994897,1.207331)">
+                <g id="Sechseck">
+                    <g id="Sechseck_aussen">
+                        <path d="M260.2,36L461.1,152L461.1,384L260.2,500L59.3,384L59.3,152L260.2,36Z" style="fill:none;fill-rule:nonzero;stroke:url(#_Linear1);stroke-width:16px;"/>
+                    </g>
+                    <g id="Sechseck_innen">
+                        <path d="M260.2,62L438.6,165L438.6,371L260.2,474L81.8,371L81.8,165L260.2,62Z" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:3.5px;"/>
+                    </g>
+                </g>
+                <g id="Buch">
+                    <g id="Einband">
+                        <path d="M260.2,395.5C222,379.2 171,373.7 118.2,384.6L110.1,386.4C107.3,391.9 108.2,396.4 112.8,398.3C169.2,388.3 220.2,393.7 260.2,411.9L260.2,395.5Z" style="fill:rgb(64,60,93);fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:3.8px;"/>
+                        <path d="M260.2,395.5C298.4,379.2 349.4,373.7 402.2,384.6L410.3,386.4C413.1,391.9 412.2,396.4 407.6,398.3C351.2,388.3 300.2,393.7 260.2,411.9L260.2,395.5Z" style="fill:rgb(64,60,93);fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:3.8px;"/>
+                        <path d="M249.3,404.6C256.567,415.533 263.833,415.533 271.1,404.6L249.3,404.6Z" style="fill:rgb(64,60,93);fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:2.9px;"/>
+                    </g>
+                    <g id="Seitenblock">
+                        <path d="M260.2,397.4C222,381 171,375.5 118.2,386.4L121.9,361C172.8,350 222,355.5 260.2,375.5L260.2,397.4Z" style="fill:white;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:5.7px;"/>
+                        <path d="M260.2,397.4C298.4,381 349.4,375.5 402.2,386.4L398.5,361C347.6,350 298.4,355.5 260.2,375.5L260.2,397.4Z" style="fill:white;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:5.7px;"/>
+                        <path d="M121.2,369.3C172.8,358.4 222,363.9 260.2,382.7" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:2.1px;"/>
+                        <path d="M120.7,377.8C172.8,366.9 222,372.3 260.2,389.9" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:2.1px;"/>
+                        <path d="M399.2,369.3C347.6,358.4 298.4,363.9 260.2,382.7" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:2.1px;"/>
+                        <path d="M399.7,377.8C347.6,366.9 298.4,372.3 260.2,389.9" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:2.1px;"/>
+                    </g>
+                    <g id="Blaetter">
+                        <path d="M260.2,375.5C204.4,329.433 164.967,313.067 141.9,326.4C184.367,336.067 223.8,352.433 260.2,375.5Z" style="fill:white;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:4.8px;"/>
+                        <path d="M260.2,375.5C220.133,309.967 191,279.033 172.8,282.7C205.6,314.233 234.733,345.167 260.2,375.5Z" style="fill:white;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:4.8px;"/>
+                        <path d="M260.2,375.5C244.4,301.5 232.867,261.467 225.6,255.4C238.933,301.533 250.467,341.567 260.2,375.5Z" style="fill:white;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:4.8px;"/>
+                        <path d="M260.2,375.5C297.8,307.567 322.667,274.2 334.8,275.4C306.933,311.8 282.067,345.167 260.2,375.5Z" style="fill:white;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:4.8px;"/>
+                        <path d="M260.2,375.5C318.467,330.633 359.733,316.7 384,333.7C337.867,340.967 296.6,354.9 260.2,375.5Z" style="fill:white;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:4.8px;"/>
+                    </g>
+                </g>
+                <g id="Netz">
+                    <g id="Kanten">
+                        <path d="M181,191.1L213.2,146" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:8px;stroke-linejoin:miter;"/>
+                        <path d="M232.5,144.4L256.9,168.9" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:7px;stroke-linejoin:miter;"/>
+                        <path d="M279.9,171.1L314.3,147.5" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:9px;stroke-linejoin:miter;"/>
+                        <path d="M330,153.7L344,216.5" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:7px;stroke-linejoin:miter;"/>
+                        <path d="M236.9,134.5L311.7,138.3" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:6px;stroke-linejoin:miter;"/>
+                        <path d="M186.5,199.2L252.9,183.1" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:5px;stroke-linejoin:miter;"/>
+                        <path d="M280.1,187.6L335.2,222.6" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:6px;stroke-linejoin:miter;"/>
+                    </g>
+                    <g id="Knoten">
+                        <path d="M186.9,202.5C186.9,210.2 180.7,216.5 172.9,216.5C165.2,216.5 158.9,210.2 158.9,202.5C158.9,194.8 165.2,188.5 172.9,188.5C180.7,188.5 186.9,194.8 186.9,202.5Z" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:5px;stroke-linejoin:miter;"/>
+                        <path d="M282.5,179.6C282.5,187.9 275.8,194.6 267.5,194.6C259.2,194.6 252.5,187.9 252.5,179.6C252.5,171.3 259.2,164.6 267.5,164.6C275.8,164.6 282.5,171.3 282.5,179.6Z" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:5px;stroke-linejoin:miter;"/>
+                        <path d="M361,230.1C361,237.8 354.8,244.1 347,244.1C339.3,244.1 333,237.8 333,230.1C333,222.4 339.3,216.1 347,216.1C354.8,216.1 361,222.4 361,230.1Z" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:5px;stroke-linejoin:miter;"/>
+                        <path d="M236.9,133.8C236.9,142.1 230.2,148.8 221.9,148.8C213.6,148.8 206.9,142.1 206.9,133.8C206.9,125.5 213.6,118.8 221.9,118.8C230.2,118.8 236.9,125.5 236.9,133.8Z" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:5px;stroke-linejoin:miter;"/>
+                        <path d="M341.7,139.1C341.7,147.4 335,154.1 326.7,154.1C318.4,154.1 311.7,147.4 311.7,139.1C311.7,130.8 318.4,124.1 326.7,124.1C335,124.1 341.7,130.8 341.7,139.1Z" style="fill:none;fill-rule:nonzero;stroke:rgb(64,60,93);stroke-width:5px;stroke-linejoin:miter;"/>
+                    </g>
+                </g>
+                <g id="Punkte">
+                    <path d="M127.8,271C127.8,273.5 125.8,275.6 123.2,275.6C120.7,275.6 118.6,273.5 118.6,271C118.6,268.5 120.7,266.4 123.2,266.4C125.8,266.4 127.8,268.5 127.8,271Z" style="fill:rgb(0,198,212);fill-rule:nonzero;"/>
+                    <path d="M144.6,239C144.6,240.9 143.1,242.4 141.2,242.4C139.3,242.4 137.8,240.9 137.8,239C137.8,237.1 139.3,235.6 141.2,235.6C143.1,235.6 144.6,237.1 144.6,239Z" style="fill:rgb(99,111,241);fill-rule:nonzero;"/>
+                    <path d="M117.2,201C117.2,202.7 115.9,204 114.2,204C112.6,204 111.2,202.7 111.2,201C111.2,199.3 112.6,198 114.2,198C115.9,198 117.2,199.3 117.2,201Z" style="fill:rgb(243,170,0);fill-rule:nonzero;"/>
+                    <path d="M404.6,275C404.6,277.4 402.7,279.4 400.2,279.4C397.8,279.4 395.8,277.4 395.8,275C395.8,272.6 397.8,270.6 400.2,270.6C402.7,270.6 404.6,272.6 404.6,275Z" style="fill:rgb(232,133,12);fill-rule:nonzero;"/>
+                    <path d="M412.4,225C412.4,226.8 411,228.2 409.2,228.2C407.5,228.2 406,226.8 406,225C406,223.2 407.5,221.8 409.2,221.8C411,221.8 412.4,223.2 412.4,225Z" style="fill:rgb(208,47,41);fill-rule:nonzero;"/>
+                    <path d="M305,242C305,243.5 303.8,244.8 302.2,244.8C300.7,244.8 299.4,243.5 299.4,242C299.4,240.5 300.7,239.2 302.2,239.2C303.8,239.2 305,240.5 305,242Z" style="fill:rgb(168,70,124);fill-rule:nonzero;"/>
+                    <path d="M248.8,229C248.8,230.4 247.7,231.6 246.2,231.6C244.8,231.6 243.6,230.4 243.6,229C243.6,227.6 244.8,226.4 246.2,226.4C247.7,226.4 248.8,227.6 248.8,229Z" style="fill:rgb(193,178,61);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-281.3,417.6,-417.6,-281.3,400.9,59.2)"><stop offset="0" style="stop-color:rgb(243,170,0);stop-opacity:1"/><stop offset="0.28" style="stop-color:rgb(232,133,12);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(168,70,124);stop-opacity:1"/><stop offset="0.75" style="stop-color:rgb(99,111,241);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(0,198,212);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
